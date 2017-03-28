@@ -1,0 +1,14 @@
+{
+  "name": "hapi-test",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Muthukumar",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.1.0"
+  }
+}
